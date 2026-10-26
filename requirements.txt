@@ -1,0 +1,68 @@
+# =========================
+# UI
+# =========================
+streamlit
+
+# =========================
+# Environment
+# =========================
+python-dotenv
+
+# =========================
+# YouTube / Audio
+# =========================
+yt-dlp
+pydub
+audioop-lts; python_version >= "3.13"
+ffmpeg-python
+
+
+
+openai-whisper
+pydub
+yt-dlp
+fastapi
+uvicorn
+python-multipart
+python-dotenv
+
+# =========================
+# Speech-to-Text
+# =========================
+faster-whisper
+
+# =========================
+# LangChain
+# =========================
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-mistralai
+
+# =========================
+# Tokenization
+# =========================
+tiktoken
+
+# =========================
+# RAG / Vector Database
+# =========================
+chromadb
+sentence-transformers
+
+# =========================
+# Hugging Face
+# =========================
+transformers
+huggingface-hub
+
+# =========================
+# Translation
+# =========================
+deep-translator
+
+# =========================
+# PDF / TXT Export
+# =========================
+reportlab
